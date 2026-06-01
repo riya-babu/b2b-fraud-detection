@@ -39,6 +39,3 @@ To effectively design instruction for technical financial domains, I maintain st
 ### 2. AWS Certified Cloud Essentials — Official Credly Badge
 * **Core Competency:** Validated understanding of secure cloud ecosystems, governance, and data compliance infrastructures.
 * 🏅 **[Verify Token on Credly](https://www.credly.com/badges/52724382-0f9a-43f2-a6a1-3612c25e99bd/public_url)** | 🖼️ **[View Badge Image](./aws-knowledge-cloud-essentials-training-badge.png)**
-### 2. AWS Certified Cloud Essentials — Official Credly Badge
-* **Core Competency:** Validated understanding of secure cloud ecosystems, governance, and data compliance infrastructures.
-* 🏅 **[Verify Token on Credly](PASTE_YOUR_PUBLIC_CREDLY_LINK_HERE)** | 🖼️ **[View Badge Image](./aws-knowledge-cloud-essentials-training-badge.png)**
