@@ -1,0 +1,32 @@
+{
+  "version": "3.118.37003.0",
+  "course_id": "6ZW92GzvS3q",
+  "title": "storyline",
+  "thumbnail": "story_content/thumbnail.jpg",
+  "scenes": [
+    {
+      "title": "Intro Scene"
+    }
+  ],
+  "slides": [
+    {
+      "id": "5WKS2i9xoF4",
+      "title": "Intro Slide",
+      "scene_index": "1.1"
+    },
+    {
+      "id": "5oSMHr2Jsgn",
+      "title": "Untitled Slide",
+      "scene_index": "1.2"
+    }
+  ],
+  "player": {
+    "name": "unified",
+    "width": 1220,
+    "height": 658
+  },
+  "stage": {
+    "width": 960,
+    "height": 540
+  }
+}
